@@ -1749,3 +1749,220 @@ PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
 rtt min/avg/max/mdev = 1.179/1.251/1.324/0.080 ms
 +++++++++++++++++++++++++++++
 ===========================
+Wed 26 Feb 2020 05:05:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=28.3 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.4 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.401/27.366/28.331/0.965 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.22 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.20 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 1.199/1.208/1.217/0.009 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:10:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=27.8 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.5 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 26.524/27.167/27.810/0.643 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=2.69 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=2.88 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 2.689/2.786/2.883/0.097 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:15:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=27.9 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.4 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.423/27.168/27.913/0.745 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.25 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.31 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.253/1.283/1.314/0.047 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:20:02 AM NZDT
+PING www.google.com(syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004)) 56 data bytes
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=1 ttl=57 time=28.1 ms
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=2 ttl=57 time=26.6 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.553/27.324/28.096/0.789 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.48 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.29 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.293/1.384/1.476/0.098 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:25:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=27.9 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.3 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.337/27.143/27.949/0.806 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.67 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.92 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.670/1.793/1.916/0.123 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:30:01 AM NZDT
+PING www.google.com(syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004)) 56 data bytes
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=1 ttl=57 time=28.1 ms
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=2 ttl=57 time=26.2 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.232/27.190/28.149/0.972 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.48 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.24 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.235/1.359/1.484/0.129 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:35:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=27.10 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.2 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.242/27.114/27.986/0.872 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.66 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.20 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.196/1.426/1.657/0.233 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:40:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=28.5 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.5 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 26.535/27.513/28.492/0.992 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.18 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.34 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.175/1.259/1.344/0.091 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:45:01 AM NZDT
+PING www.google.com(syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004)) 56 data bytes
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=1 ttl=57 time=27.9 ms
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=2 ttl=57 time=26.4 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 26.416/27.150/27.885/0.752 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.64 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.33 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.326/1.484/1.642/0.158 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:50:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=27.9 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.2 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 26.206/27.063/27.920/0.857 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.50 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=2.94 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 1.500/2.221/2.942/0.721 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 05:55:01 AM NZDT
+PING www.google.com(syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004)) 56 data bytes
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=1 ttl=57 time=27.9 ms
+64 bytes from syd09s17-in-x04.1e100.net (2404:6800:4006:80b::2004): icmp_seq=2 ttl=57 time=26.7 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 26.698/27.316/27.934/0.618 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=2.14 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=20.6 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 2.137/11.359/20.581/9.222 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 06:00:01 AM NZDT
+PING www.google.com(syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004)) 56 data bytes
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=1 ttl=57 time=28.4 ms
+64 bytes from syd09s12-in-x04.1e100.net (2404:6800:4006:803::2004): icmp_seq=2 ttl=57 time=26.5 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 3ms
+rtt min/avg/max/mdev = 26.482/27.424/28.367/0.956 ms
+=======
+PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=1.38 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=1.28 ms
+
+--- 192.168.1.2 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 2ms
+rtt min/avg/max/mdev = 1.278/1.329/1.380/0.051 ms
++++++++++++++++++++++++++++++
+===========================
+Wed 26 Feb 2020 06:05:01 AM NZDT
