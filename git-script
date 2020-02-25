@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd /home/pi/speed/speed-tests
+
+git add -u
+
+TIME=`date`
+
+git commit -m "Commit at ${TIME}"
+
+git push
+
+
