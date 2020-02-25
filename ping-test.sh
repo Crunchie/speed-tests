@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd /home/pi/speed/speed-tests
 
 echo "===========================" >> ping-res.out 
 
